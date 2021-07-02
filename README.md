@@ -23,11 +23,17 @@ In Murda We Trust
 <p align="center">  
   
 ------  
-  
+
 ![](https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
   
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybinballin&theme=midnight-purple&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
   
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=midnight-purple&layout=compact)
 
-  
+------  
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" alt="Avatar">
+</p>  
+<p align="center">
+Forever 1800 
