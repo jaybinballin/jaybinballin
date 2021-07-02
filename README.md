@@ -19,3 +19,11 @@ In Murda We Trust
 </p>
 
 <p align="center">  
+  
+![](https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
+  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybinballin&theme=midnight-purple&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
+  
+![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=midnight-purple&layout=compact)
+
+  
