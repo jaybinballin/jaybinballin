@@ -28,7 +28,7 @@ In Murda We Trust
   
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybinballin&theme=midnight-purple&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
   
-![ReadMe](https://github-readme-stats.vercel.app/api?username=Not-Cyrus&show_icons=true&theme=midnight-purple&layout=compact)
+![ReadMe](https://github-readme-stats.vercel.app/api?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
 
 ------  
 
