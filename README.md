@@ -16,6 +16,8 @@ In Murda We Trust
     <a href="https://www.youtube.com/channel/UCoAgnodS-OryikuNBrbbg1Q">youtube</a>
     ・
     <a href="https://github.com/jaybinballin">github</a>
+    ・
+    <a href="https://discord.gg/belaire">server</a>
 </p>
 
 <p align="center">  
