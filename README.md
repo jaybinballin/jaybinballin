@@ -19,6 +19,7 @@ In Murda We Trust
 </p>
 
 <p align="center">  
+------  
   
 ![](https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
   
