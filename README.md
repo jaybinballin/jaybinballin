@@ -36,4 +36,4 @@ In Murda We Trust
   <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" alt="Avatar">
 </p>  
 <p align="center">
-Forever 1800 
+Forever 1800
