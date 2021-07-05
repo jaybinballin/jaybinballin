@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/fLef2Y1yYvyBAJcNVE/giphy.gif" alt="Avatar">
 </p>
 <p align="center">
-    @amiri#1800
+    @tsu#1800
 <p align="center">
 In Murda We Trust
 <p align="center">
