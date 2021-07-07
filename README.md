@@ -17,7 +17,7 @@ In Murda We Trust
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/belaire">server</a>
+    <a href="https://discord.gg/6Bkh4qywJ4">server</a>
 </p>
 
 <p align="center">  
