@@ -9,7 +9,7 @@ In Murda We Trust
 <p align="center">
 </p>
 <p align="center">
-<a href="https://discord.com/users/788470631968145411">discord</a>
+<a href="https://discord.com/users/870084243664031804">discord</a>
     ・
     <a href="https://www.instagram.com/noluvjayy._nyc/">instagram</a>
     ・
