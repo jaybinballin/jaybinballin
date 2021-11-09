@@ -11,13 +11,13 @@ In Murda We Trust
 <p align="center">
 <a href="https://discord.com/users/870084243664031804">discord</a>
     ・
-    <a href="https://www.instagram.com/noluvjayy._nyc/">instagram</a>
+    <a href="https://www.instagram.com/applyinpressureny/">instagram</a>
     ・
     <a href="https://www.youtube.com/channel/UCoAgnodS-OryikuNBrbbg1Q">youtube</a>
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/ju3yQrx4AZ">server</a>
+    <a href="https://discord.gg/balenci">server</a>
 </p>
 
 <p align="center">  
