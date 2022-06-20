@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/fLef2Y1yYvyBAJcNVE/giphy.gif" alt="Avatar">
 </p>
 <p align="center">
-    @tsu#1800
+    @atm assault#1800
 <p align="center">
 In Murda We Trust
 <p align="center">
 </p>
 <p align="center">
-<a href="https://discord.com/users/870084243664031804">discord</a>
+<a href="https://discord.com/users/953400369424252958">discord</a>
     ・
     <a href="https://www.instagram.com/applyinpressureny/">instagram</a>
     ・
@@ -17,7 +17,7 @@ In Murda We Trust
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/balenci">server</a>
+    <a href="https://discord.gg/stendo">server</a>
 </p>
 
 <p align="center">  
