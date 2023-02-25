@@ -9,15 +9,15 @@ In Murda We Trust
 <p align="center">
 </p>
 <p align="center">
-<a href="https://discord.com/users/953400369424252958">discord</a>
+<a href="https://discord.com/users/1060295121997930677">discord</a>
     ・
-    <a href="https://www.instagram.com/applyinpressureny/">instagram</a>
+    <a href="https://www.instagram.com/pressure_tc/">instagram</a>
     ・
-    <a href="https://www.youtube.com/channel/UCoAgnodS-OryikuNBrbbg1Q">youtube</a>
+    <a href="https://www.youtube.com/@mrtoocritical">youtube</a>
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/stendo">server</a>
+    <a href="https://discord.gg/deuce">server</a>
 </p>
 
 <p align="center">  
@@ -36,4 +36,4 @@ In Murda We Trust
   <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" alt="Avatar">
 </p>  
 <p align="center">
-Forever 1800
+1800
