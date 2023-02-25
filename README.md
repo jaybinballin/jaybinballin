@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/fLef2Y1yYvyBAJcNVE/giphy.gif" alt="Avatar">
 </p>
 <p align="center">
-    @atm assault#1800
+    @lv#0002
 <p align="center">
 In Murda We Trust
 <p align="center">
