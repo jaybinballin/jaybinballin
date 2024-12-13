@@ -1,9 +1,9 @@
 ------
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/1146939728889917441/1149529746447810570/IMG_4736.gif?ex=675ceb80&is=675b9a00&hm=5f0140365cb7276cbfcbacb07753163f9a15fff9d6a3b5e04ec04d7a58bda387&" alt="Avatar">
+  <img src="" alt="Avatar">
 </p>
 <p align="center">
-    @lv#0002
+    @riskdept
 <p align="center">
 In Murda We Trust
 <p align="center">
@@ -17,7 +17,7 @@ In Murda We Trust
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/deuce">server</a>
+    <a href="https://discord.gg/bloodbath">server</a>
 </p>
 
 <p align="center">  
