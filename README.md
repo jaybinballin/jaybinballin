@@ -1,6 +1,6 @@
 ------
 <p align="center">  
-  <img src="https://media.giphy.com/media/fLef2Y1yYvyBAJcNVE/giphy.gif" alt="Avatar">
+  <img src="https://cdn.discordapp.com/attachments/1146939728889917441/1149529746447810570/IMG_4736.gif?ex=675ceb80&is=675b9a00&hm=5f0140365cb7276cbfcbacb07753163f9a15fff9d6a3b5e04ec04d7a58bda387&" alt="Avatar">
 </p>
 <p align="center">
     @lv#0002
