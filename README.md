@@ -1,6 +1,6 @@
 ------
 <p align="center">  
-  <img src="" alt="Avatar">
+  <img src="https://media2.giphy.com/media/LkKO8NKj5Jw9mAdlUJ/giphy.gif?cid=9b38fe91him685ovr333kk27xl3tim98t4gmtg4qmsbvrj5r&ep=v1_gifs_username&rid=giphy.gif&ct=g" alt="Avatar">
 </p>
 <p align="center">
     @riskdept
