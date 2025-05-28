@@ -11,13 +11,13 @@ In Murda We Trust
 <p align="center">
 <a href="https://discord.com/users/1060295121997930677">discord</a>
     ・
-    <a href="https://www.instagram.com/pressure_tc/">instagram</a>
+    <a href="https://www.instagram.com/rixhoffroute64/">instagram</a>
     ・
-    <a href="https://www.youtube.com/@mrtoocritical">youtube</a>
+    <a href="https://www.youtube.com/@fundsdept">youtube</a>
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/bloodbath">server</a>
+    <a href="https://discord.gg/guapi">server</a>
 </p>
 
 <p align="center">  
