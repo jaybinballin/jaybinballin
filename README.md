@@ -24,12 +24,13 @@ In Murda We Trust
   
 ------  
 
-![](https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
-  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybinballin&theme=radical" alt="Top Languages"/>
-  
-![ReadMe](https://github-readme-stats.vercel.app/api?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact"/>
+
 
 ------  
 
