@@ -38,4 +38,4 @@ In Murda We Trust
   <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" alt="Avatar">
 </p>  
 <p align="center">
-1800
+1800 | Murda | ATM
