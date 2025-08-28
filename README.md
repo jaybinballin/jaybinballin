@@ -26,8 +26,9 @@ In Murda We Trust
 
 ![](https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
   
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybinballin&theme=midnight-purple&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybinballin&theme=radical" alt="Top Languages"/>
+</p>
 ![ReadMe](https://github-readme-stats.vercel.app/api?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact)
 
 ------  
