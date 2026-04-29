@@ -11,7 +11,7 @@ In Murda We Trust
 <p align="center">
 <a href="https://discord.com/users/1060295121997930677">discord</a>
     ・
-    <a href="https://www.instagram.com/rixhoffroute64/">instagram</a>
+    <a href="https://www.instagram.com/flyrisktaker_/">instagram</a>
     ・
     <a href="https://www.youtube.com/@fundsdept">youtube</a>
     ・
