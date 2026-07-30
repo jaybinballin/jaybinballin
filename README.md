@@ -17,7 +17,7 @@ In Murda We Trust
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/draco">server</a>
+    <a href="https://discord.gg/gatti101">server</a>
 </p>
 
 <p align="center">  
