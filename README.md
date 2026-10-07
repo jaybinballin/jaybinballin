@@ -11,13 +11,13 @@ In Murda We Trust
 <p align="center">
 <a href="https://discord.com/users/1060295121997930677">discord</a>
     ・
-    <a href="https://www.instagram.com/flyrisktaker_/">instagram</a>
+    <a href="https://www.instagram.com/1wikkem/">instagram</a>
     ・
     <a href="https://www.youtube.com/@fundsdept">youtube</a>
     ・
     <a href="https://github.com/jaybinballin">github</a>
     ・
-    <a href="https://discord.gg/gatti101">server</a>
+    <a href="https://discord.gg/highly">server</a>
 </p>
 
 <p align="center">  
