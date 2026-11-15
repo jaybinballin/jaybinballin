@@ -29,7 +29,7 @@ In Murda We Trust
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybinballin&theme=radical" alt="Top Languages"/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jaybinballin-2005&show_icons=true&theme=transparent"/>
 
 
 ------  
