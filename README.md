@@ -25,7 +25,7 @@ In Murda We Trust
 ------  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=midnight-purple&layout=compact"/>
+  <img src="https://komarev.com/ghpvc/?username=jaybinballin&show_icons=true&theme=blueviolet&layout=compact"/>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jaybinballin&layout=donut&theme=radical" alt="Top Languages"/>
 <p align="center">
